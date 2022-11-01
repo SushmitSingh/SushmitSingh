@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SushmitSingh
 - 👀 I’m interested in Android,java & Kotlin
-- 🌱 I’m currently learning Android
+- 🌱 Android Native
 - 📫 My G-Mail & Phone Nu. - sushmit8998@gmail.com, +917905646998
 
 <!---
