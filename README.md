@@ -16,6 +16,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Android%20Dev-%E2%9A%99%EF%B8%8F-success?style=for-the-badge&logo=android" alt="Android Dev">
+  <img src="https://img.shields.io/badge/Flutter-%231877F2?style=for-the-badge&logo=flutter" alt="Flutter">
   <img src="https://img.shields.io/badge/Java-%E2%98%95%EF%B8%8F-yellow?style=for-the-badge&logo=java" alt="Java">
   <img src="https://img.shields.io/badge/Kotlin-%F0%9F%98%8A%20Kotlin-blue?style=for-the-badge&logo=kotlin" alt="Kotlin">
 </div>
@@ -49,5 +50,20 @@
 <div align="center">
   <a href="https://github.com/SushmitSingh">
     <img src="https://img.shields.io/badge/-Follow%20Me-%23181717?style=for-the-badge&logo=github" alt="Follow Me">
+  </a>
+  <a href="https://github.com/SushmitSingh?tab=repositories">
+    <img src="https://img.shields.io/github/followers/SushmitSingh?label=Profile%20Views&style=for-the-badge" alt="Profile Views">
+  </a>
+</div>
+
+### Freelance Work & Contracting
+
+<p align="center">
+  Open to freelance opportunities and contracting. Let's discuss how I can contribute to your projects!
+</p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/sushmitsingh/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
 </div>
