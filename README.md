@@ -52,9 +52,22 @@
     <img src="https://img.shields.io/badge/-Follow%20Me-%23181717?style=for-the-badge&logo=github" alt="Follow Me">
   </a>
   <a href="https://github.com/SushmitSingh?tab=repositories">
-    <img src="https://img.shields.io/github/followers/SushmitSingh?label=Profile%20Views&style=for-the-badge" alt="Profile Views">
+    <img src="https://img.shields.io/github/followers/SushmitSingh?label=Followers&style=for-the-badge" alt="Followers">
   </a>
 </div>
+
+<div align="center">
+  <a href="https://github.com/SushmitSingh?tab=repositories">
+    <img src="https://img.shields.io/badge/Total%20Repositories-%3Cnumber%3E-brightgreen?style=for-the-badge" alt="Total Repositories">
+  </a>
+  <a href="https://github.com/SushmitSingh?tab=repositories">
+    <img src="https://img.shields.io/badge/Total%20Views-%3Cnumber%3E-blue?style=for-the-badge" alt="Total Views">
+  </a>
+  <a href="https://github.com/SushmitSingh?tab=repositories">
+    <img src="https://img.shields.io/badge/Total%20Stars-%3Cnumber%3E-yellow?style=for-the-badge" alt="Total Stars">
+  </a>
+</div>
+
 
 ### Freelance Work & Contracting
 
