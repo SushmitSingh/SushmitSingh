@@ -24,7 +24,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Material%20Design-%F0%9F%8E%A8-lightgrey?style=for-the-badge&logo=material-design" alt="Material Design">
   <img src="https://img.shields.io/badge/MVVM-%F0%9F%8F%A0-orange?style=for-the-badge" alt="MVVM">
-  <img src="https://img.shields.io/badge/Dependency%20Injection-%F0%9F%94%8C-yellowgreen?style=for-the-badge" alt="Dependency Injection">
 </div>
 
 <div align="center">
@@ -55,19 +54,6 @@
     <img src="https://img.shields.io/github/followers/SushmitSingh?label=Followers&style=for-the-badge" alt="Followers">
   </a>
 </div>
-
-<div align="center">
-  <a href="https://github.com/SushmitSingh?tab=repositories">
-    <img src="https://img.shields.io/badge/Total%20Repositories-%3Cnumber%3E-brightgreen?style=for-the-badge" alt="Total Repositories">
-  </a>
-  <a href="https://github.com/SushmitSingh?tab=repositories">
-    <img src="https://img.shields.io/badge/Total%20Views-%3Cnumber%3E-blue?style=for-the-badge" alt="Total Views">
-  </a>
-  <a href="https://github.com/SushmitSingh?tab=repositories">
-    <img src="https://img.shields.io/badge/Total%20Stars-%3Cnumber%3E-yellow?style=for-the-badge" alt="Total Stars">
-  </a>
-</div>
-
 
 ### Freelance Work & Contracting
 
