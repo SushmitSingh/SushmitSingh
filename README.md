@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>Hello, I'm Sushmit Singh! 👋</h1>
-  <p>Creating Seamless Mobile Experiences</p>
+  <h1>Hello, I'm Sushmit! 🖐</h1>
 </div>
 
 <div align="center">
@@ -12,7 +11,7 @@
   </a>
 </div>
 
-### Skills & Expertise
+### 🌿☘️🍀🌴
 
 <div align="center">
   <img src="https://img.shields.io/badge/Android%20Dev-%E2%9A%99%EF%B8%8F-success?style=for-the-badge&logo=android" alt="Android Dev">
@@ -32,7 +31,7 @@
   <img src="https://img.shields.io/badge/Retrofit-%E2%9A%99%EF%B8%8F%20Coroutines-blueviolet?style=for-the-badge" alt="Retrofit & Coroutines">
 </div>
 
-### Achievements & Approach
+### Approach👩‍🦯
 
 <div align="center">
   <img src="https://img.shields.io/badge/Top%20Quality-%F0%9F%8F%86-success?style=for-the-badge" alt="Top Quality">
@@ -52,17 +51,5 @@
   </a>
   <a href="https://github.com/SushmitSingh?tab=repositories">
     <img src="https://img.shields.io/github/followers/SushmitSingh?label=Followers&style=for-the-badge" alt="Followers">
-  </a>
-</div>
-
-### Freelance Work & Contracting
-
-<p align="center">
-  Open to freelance opportunities and contracting. Let's discuss how I can contribute to your projects!
-</p>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/sushmitsingh/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
 </div>
