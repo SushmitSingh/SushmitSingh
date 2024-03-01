@@ -11,7 +11,7 @@
   </a>
 </div>
 
-### 💅
+### 🪴
 
 <div align="center">
   <img src="https://img.shields.io/badge/Android%20Dev-%E2%9A%99%EF%B8%8F-success?style=for-the-badge&logo=android" alt="Android Dev">
