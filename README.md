@@ -49,7 +49,4 @@
   <a href="https://github.com/SushmitSingh">
     <img src="https://img.shields.io/badge/-Follow%20Me-%23181717?style=for-the-badge&logo=github" alt="Follow Me">
   </a>
-  <a href="https://github.com/SushmitSingh?tab=repositories">
-    <img src="https://img.shields.io/github/followers/SushmitSingh?label=Followers&style=for-the-badge" alt="Followers">
-  </a>
 </div>
