@@ -1,13 +1,10 @@
 <div align="center">
-  <h1>Hello, I'm Sushmit! 🖐</h1>
+  <h1>Hello, 🖐</h1>
 </div>
 
 <div align="center">
   <a href="mailto:sushmit8998@gmail.com">
     <img src="https://img.shields.io/badge/email-sushmit8998%40gmail.com-orange?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
-  <a href="tel:+917905646998">
-    <img src="https://img.shields.io/badge/phone-%2B917905646998-blue?style=for-the-badge&logo=phone" alt="Phone">
   </a>
 </div>
 
