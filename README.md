@@ -1,13 +1,3 @@
-<div align="center">
-  <h1>Hello, 🖐</h1>
-</div>
-
-<div align="center">
-  <a href="mailto:sushmit8998@gmail.com">
-    <img src="https://img.shields.io/badge/email-sushmit8998%40gmail.com-orange?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
-</div>
-
 ### 🪴
 
 <div align="center">
