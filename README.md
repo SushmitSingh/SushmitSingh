@@ -26,12 +26,6 @@
   <img src="https://img.shields.io/badge/Third%20Party%20Integration-%F0%9F%94%97-lightgrey?style=for-the-badge" alt="Third Party Integration">
 </div>
 
-### Personal Drive
-
-<p align="center">
-  I'm driven by an insatiable curiosity to stay ahead of emerging trends and technologies in mobile app development. My commitment is to embrace new challenges and contribute positively to innovative ventures.
-</p>
-
 <div align="center">
   <a href="https://github.com/SushmitSingh">
     <img src="https://img.shields.io/badge/-Follow%20Me-%23181717?style=for-the-badge&logo=github" alt="Follow Me">
