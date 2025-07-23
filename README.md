@@ -26,6 +26,15 @@
   <img src="https://img.shields.io/badge/Third%20Party%20Integration-%F0%9F%94%97-lightgrey?style=for-the-badge" alt="Third Party Integration">
 </div>
 
+### 📊 Language Usage (Auto)
+
+<div align="center">
+  <img src="https://img.shields.io/github/languages/top/SushmitSingh/to_do_local?style=for-the-badge" alt="Top Language">
+  <img src="https://img.shields.io/github/languages/count/SushmitSingh/to_do_local?style=for-the-badge" alt="Language Count">
+</div>
+
+
+
 <div align="center">
   <a href="https://github.com/SushmitSingh">
     <img src="https://img.shields.io/badge/-Follow%20Me-%23181717?style=for-the-badge&logo=github" alt="Follow Me">
