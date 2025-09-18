@@ -1,10 +1,6 @@
 ### 🪴
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SushmitSingh&langs_count=3&hide_title=true&card_width=500&theme=onedark" alt="Top Languages">
-</div>
-
-<div align="center">
   <img src="https://img.shields.io/badge/Android%20Dev-%E2%9A%99%EF%B8%8F-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Dev">
   <img src="https://img.shields.io/badge/Flutter-%231877F2?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
 </div>
